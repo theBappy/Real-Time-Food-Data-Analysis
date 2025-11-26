@@ -1,10 +1,8 @@
-# 🧁 Swiggy Food Delivery Data Analytics (SQL Project)
+# 🧁 Food Delivery Data Analytics Real Time (SQL Project)
 
-## 📌 GitHub Banner
 
-![Swiggy SQL Analysis Banner](https://github.com/your-username/your-repo-name/blob/main/visuals/banner.png)
+<img width="1024" height="1024" alt="banner" src="https://github.com/user-attachments/assets/f779d15e-f880-4ac5-b51c-7c6485cc6e2a" />
 
-> 🔥 *If you want, I can design a custom banner for you — just say “buddy design banner”.*
 
 ---
 

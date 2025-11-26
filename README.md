@@ -202,7 +202,5 @@ swiggy-sql-analysis/
 ## 👨‍💻 Author
 
 **theBappy**
-SQL Developer • Data Analyst • AI Engineer
-
 ---
 
